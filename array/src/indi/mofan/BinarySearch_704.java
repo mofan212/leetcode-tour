@@ -1,3 +1,5 @@
+package indi.mofan;
+
 /**
  * @author mofan
  * @date 2023/2/6 20:35
